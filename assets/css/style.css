@@ -18,4 +18,14 @@
 .card-img-top {
     height: 177px;
 }
-
+.card-title {
+    font-weight:300;
+}
+.footer-text {
+    color: #FFFFFF;
+    font-size: 20px;
+}
+.footer-icons, .icon {
+    color: #FFFFFF;
+    padding-right: 10px;
+}
